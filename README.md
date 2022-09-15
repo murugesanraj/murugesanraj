@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murugesanraj
 - 👀 I’m interested in Multi-Omics analysis
-- 🌱 I’m currently working at Bioinfromatics and Analytics Core, University of Missouri
-- 💞️ I’m looking to collaborate on Biomedical Data Analysis and integration to a multiomics concepts
+- 🌱 I’m currently working at Bioinformatics and Analytics Core, University of Missouri
+- 💞️ I’m looking to collaborate on Biomedical Data Analysis and integration to multi-omics concepts
 - 📫 How to reach me rajum@umsystem.edu
 
 <!---
